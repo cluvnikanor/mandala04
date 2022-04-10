@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Mdb04Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Mdb04Application.class, args);
+		SpringApplication.run(Mdb04Application.class, args);  
 	}
 
 }
